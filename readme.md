@@ -22,7 +22,17 @@
 
 ## 📂 ფაილების სტრუქტურა
 * `index.html` - მთავარი გვერდი.
-* `/asets` - საქაღალდე, სადაც ინახება ინსტრუქციისთვის საჭირო ფოტო მასალა.
+* `style.css` - გვერდის დიზაინი.
+* `/asets` - საქაღალდე, სადაც ინახება ინსტრუქციისთვის საჭირო ფოტო მასალა.s
+---
 
+## 👥 გუნდი (Owners)
+
+საიტის მართვასა და განვითარებაზე ზრუნავენ:
+
+* 🔴 **NIKA_GEIMS** – *CEO & Project Founder*
+* 🟠 **NIKMAX** – *Dizainer Manager*
+* 💎 **MIKLAND** – *Developer & Manager*
+* 🔵 **LOMTA** – *Developer & Support*
 ---
 © 2026 Interactive Development Presentation
