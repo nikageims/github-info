@@ -4,6 +4,8 @@
 
 # 🇬🇪 ქართული ვერსია
 
+🌐 **English version available below ⬇️**
+
 ეს არის ინტერაქტიული ვებ-პრეზენტაცია, რომელიც შექმნილია იმისათვის, რომ მომხმარებლებს მარტივად, კოდის წერის გარეშე ასწავლოს პროექტების მართვა **GitHub Desktop**-ის გამოყენებით.
 
 ## 🚀 ცოცხალი დემო
@@ -58,6 +60,8 @@ GitHub: https://github.com/L0mta
 
 # 🇬🇧 English Version
 
+🌐 **ქართული ვერსია ზემოთ ⬆️**
+
 This is an interactive web presentation designed to help users easily learn how to manage projects using **GitHub Desktop**, without writing complex code.
 
 ## 🚀 Live Demo
@@ -92,7 +96,7 @@ project/
 └── assets/
 ```
 
-## 👥 Team members
+## 👥 Team Members
 
 The website is managed and developed by:
 
